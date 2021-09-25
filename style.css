@@ -658,6 +658,30 @@ a {
     max-width: 1000px;
 }
 
+.subtitle {
+    max-width: 585px;
+    margin: auto;
+    font-size: 21px;
+}
+
+.review {
+    max-width: 580px;
+    margin: auto;
+    padding-bottom: 5px;
+    font-size: 21px;
+    font-style: italic;
+}
+
+.review-name {
+    font-size: 1em;
+}
+
+.texte {
+    max-width: 580px;
+    margin: auto;
+    font-size: 21px;
+}
+
 .hero-bloc-text {
     font-size: 38px;
 }
