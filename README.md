@@ -1,3 +1,5 @@
+Rendez-vous sur https://anna97490.github.io/SEO-optimisation/ pour voir le résultat de mon travail sur ce projet!
+
 ## Projet Numéro 4 - La chouette agence :
 Optimiser un site web existant.
 L'objectif est de faire en sorte que le site soit mieux classé lorsqu’on tape “Entreprise webdesign Lyon”.
